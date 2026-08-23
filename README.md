@@ -1,3 +1,5 @@
+<img width="320" height="210" alt="Screenshot 2026-08-23 at 11 40 21 AM Medium" src="https://github.com/user-attachments/assets/e4b8db91-e056-4256-a8a9-24cb267f5617" />  
+
 To get a color-identifiable **MacOS Terminal** windows, I tried to use script to set colors randomly.   
 
 First, you should name your **Terminal** profiles from 0 to n. (Terminal-->Settings...-->Profiles)  
